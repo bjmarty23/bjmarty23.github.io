@@ -11,6 +11,8 @@ html, body{
   text-align= center;
   font-color= red;
   font-size= 48px;
-  
 }
 
+.education{
+  text-align: right;
+}
