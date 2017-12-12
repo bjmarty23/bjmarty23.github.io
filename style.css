@@ -22,9 +22,9 @@ div{
   color: teal;
 }
 #objective p {
-    margin-top: -8px;
+  margin-top: -8px;
   font-family: verdana, helvetica;
-    color: black
+  color: black;
 }
  #skillsandabilities {
    margin-left: 10px;
@@ -47,7 +47,7 @@ div{
     margin-top: -15px;
     color: black;
     font-weight: bold;
-    font-size:15px
+    font-size:15px;
 }
 #experience ul {
     color:black;
@@ -67,4 +67,5 @@ div{
     color: black;
     margin-top: -10;
     font-size: 15px;
+}
     
