@@ -58,13 +58,13 @@ div{
     margin-right: 20px;
 }
 #education {
-    margin-top:10px;
-    margin-left:10px;
+    margin-top: 10px;
+    margin-left: 10px;
     font-family: verdana, helvetica;
     Color: teal;
 }
 #education p{
-    margin-top:-15px;
+    margin-top: -15px;
     color: black;
 }
 #education h4 {
