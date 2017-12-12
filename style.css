@@ -11,6 +11,7 @@ div{
   font-family: Verdana, Helvetica;
 } 
 #header p {
+  color: black;
   margin-top: -5px;
   margin-bottom: 5px;
   font-size: 15px;
