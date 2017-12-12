@@ -1,7 +1,6 @@
 
 div{
-  border-radius: 20px;
-  margin-left: 20px;
+  margin-left: 10px;
   margin-right: 20px;
   }
 #header {
@@ -25,6 +24,7 @@ div{
 #objective p {
   margin-top: -8px;
   color: black;
+  font-size: 15px;
 }
  #skillsandabilities {
    margin-left: 10px;
