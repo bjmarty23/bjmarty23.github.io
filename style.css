@@ -4,9 +4,8 @@ div{
   margin-left: 20px;
   margin-right: 20px;
   }
-  #header {
-  margin-top: 10px;
-  margin-left: 10px;
+#header {
+  color: red;
   font-family: Verdana, Helvetica;
 } 
 #header p {
