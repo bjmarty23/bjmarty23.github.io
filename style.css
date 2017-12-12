@@ -3,6 +3,10 @@ html,body{
   }
 div{
   border-radius: 20px;
+#body {
+  margin-left: 20pa;
+  margin-right: 20px;
+  }
 }
 #header {
   margin-top: 10px;
