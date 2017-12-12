@@ -4,3 +4,8 @@ html,body{
 div{
   border-radius: 20px;
 }
+#header {
+  margin-top: 10px;
+  margin-left: 10px;
+  font-family: Verdana, Helvetica;
+}
