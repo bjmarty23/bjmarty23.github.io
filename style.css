@@ -1,13 +1,76 @@
 
 div{
   border-radius: 20px;
-#body {
   margin-left: 20px;
   margin-right: 20px;
   }
+#body{
+  background-image: url('https://bhubaneswarlive.com/wp-content/uploads/2016/11/Savin-NY-Website-Background-Web.jpg');
+  display: block;
+  background-position: center top;
+  background-size: cover;
+  margin: 0;
+}
   #header {
   margin-top: 10px;
   margin-left: 10px;
   font-family: Verdana, Helvetica;
-  color: blue;
 } 
+#header p {
+  margin-top: -5px;
+  margin-bottom: 5px;
+  font-family: Verdana, Helvetica;
+  font-size: 15px;
+}
+#objective {
+  margin-left: 10px;
+  margin-top: 10px;
+  font-family: Verdana, Helvetica;
+  color: teal;
+}
+#objective p {
+    margin-top: -8px;
+    color: black
+}
+ #skillsandabilities {
+   margin-left: 10px;
+   font-family: Verdana, Helvetica;
+   color: teal;
+}
+#skillsandabilities ul {
+    color: black;
+}
+#experience {
+    margin-top: 10px;
+    margin-left:10px;
+    font-family: Verdana, Helvetica;
+    color: teal;
+}
+#experience h4 {
+    font-weight: bold;
+}
+#experience p {
+    margin-top: -15px;
+    color: black;
+    font-weight: bold;
+    font-size:15px
+}
+#experience ul {
+    color:black;
+    margin-right: 20px;
+}
+#education {
+    margin-top:10px;
+    margin-left:10px;
+    font-family: verdana, helvetica;
+    Color: teal;
+}
+#education p{
+    margin-top:-15px;
+    color: black;
+}
+#education h4 {
+    color: black;
+    margin-top: -10;
+    font-size: 15px;
+    
