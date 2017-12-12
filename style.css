@@ -9,3 +9,9 @@ div{
   margin-left: 10px;
   font-family: Verdana, Helvetica;
 }
+
+#header p {
+  margin-top: -5px;
+  margin-bottom: -5px;
+  font-family: Verdana, Helvetic;
+}
