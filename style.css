@@ -5,6 +5,7 @@ div{
   margin-right: 20px;
   }
 #header {
+  color: black;
   margin-top: 10px;
   margin-left: 10px;
   font-family: Verdana, Helvetica;
@@ -12,8 +13,7 @@ div{
 #header p {
   margin-top: -5px;
   margin-bottom: 5px;
-  font-family: Verdana, Helvetica;
-  font-size: 1px;
+  font-size: 15px;
 }
 #objective {
   margin-left: 10px;
