@@ -1,5 +1,5 @@
 html, body{
-  font-family: Helvetica;
+  font-family: comic-sans;
   min-height: 100%;
   line-height: 1.5;
   position: relative;
@@ -9,7 +9,7 @@ html, body{
 
 .title-page {
   text-align= center;
-  font-color= red;
+  font-color= pink;
   font-size= 48px;
 }
 
