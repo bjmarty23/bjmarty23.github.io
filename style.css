@@ -15,6 +15,7 @@ div{
 
 .page-title{
   float: left;
+  marginn-top: -20px;
   margin-left: 10px;
   padding-top: 5px;
   font-size: 16px;
