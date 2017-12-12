@@ -12,7 +12,7 @@ div{
   height: 60px;
   margin-bottom: 10px;
 }
-#title{
+.page-title{
   float: left;
   margin-left: 10px;
   padding-top: 5px;
