@@ -1,5 +1,10 @@
 
 div{
+  background-image: url('https://s3.amazonaws.com/codecademy-content/projects/make-a-website/lesson-2/bg.jpg');
+	background-position: center top;
+	background-size: cover;
+	padding: 250px 0;
+	margin: 30px;
   margin-left: 20px;
   margin-right: 20px;
   }
@@ -38,7 +43,7 @@ div{
 #experience {
   margin-top: 10px;
   margin-left:10px;
-  font-family Verdana, Helvetica;
+  font-family: Verdana, Helvetica;
   color: teal;
 }
 #experience h4 {
