@@ -1,18 +1,5 @@
-html, body{
-  font-family: comic-sans;
-  min-height: 100%;
-  line-height: 1.5;
-  position: relative;
-  top: 10px;
-  left:20px;
+html,body{
+  font-family: 'Helvetica', comic-sans, sans-sherif;
+  display: center;
 }
 
-.title-page {
-  text-align= center;
-  font-color= pink;
-  font-size= 48px;
-}
-
-.education{
-  text-align: right;
-}
