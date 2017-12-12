@@ -1,6 +1,6 @@
 html,body{
-  
-}
+  color: black;
+  }
 div{
   border-radius: 5px;
 }
@@ -12,3 +12,13 @@ div{
   height: 60px;
   margin-bottom: 10px;
 }
+#title{
+  float: left;
+  margin-left: 10px;
+  padding-top: 5px;
+  font-size: 16px;
+  font-family: Verdan, Helvetica;
+  color: dark gray;
+}
+  
+    
