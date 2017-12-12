@@ -1,15 +1,9 @@
 
 div{
-  margin-left: 10px;
+  margin-left: 20px;
   margin-right: 20px;
   }
 #header {
-  background-image: url('https://bhubaneswarlive.com/wp-content/uploads/2016/11/Savin-NY-Website-Background-Web.jpg');
-  display: block;
-  background-position: center top;
-  background-size: cover;
-  margin: 0;
-
   color: black;
   margin-top: 10px;
   margin-left: 10px;
@@ -33,7 +27,7 @@ div{
   font-size: 15px;
 }
  #skillsandabilities {
-   font-family: Verdana, helvetica;
+   font-family: Verdana, Helvetica;
    margin-left: 10px;
    color: teal;
 }
