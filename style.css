@@ -1,6 +1,14 @@
 html,body{
-  font-family: 'Helvetica', comic-sans, sans-sherif;
-  display: center;
-  color: pink;
+  
+}
+div{
+  border-radius: 5px;
 }
 
+#header{
+  position: fixed;
+  width:97.5%;
+  margin-top: -20px;
+  height: 60px;
+  margin-bottom: 10px;
+}
