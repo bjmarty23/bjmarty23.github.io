@@ -35,21 +35,23 @@ div{
     color: black;
 }
 #experience {
+  margin-top: 10px;
   margin-left:10px;
-    color: teal;
+  font-family Verdana, Helvetica;
+  color: teal;
 }
 #experience h4 {
-    font-weight: bold;
+  font-weight: bold;
 }
 #experience p {
-    margin-top: -15px;
-    color: black;
-    font-weight: bold;
-    font-size:15px;
+  margin-top: -15px;
+  color: black;
+  font-weight: bold;
+  font-size:15px;
 }
 #experience ul {
-    color:black;
-    margin-right: 20px;
+  color:black;
+  margin-right: 20px;
 }
 #education {
     margin-top: 10px;
