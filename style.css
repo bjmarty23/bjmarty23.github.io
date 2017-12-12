@@ -16,3 +16,8 @@ div{
   font-family: Verdana, Helvetic;
   justification: right;
 }
+
+#objective {
+  margin-left: 10px;
+  font-fammily: Verdana, Helvetica;
+}
